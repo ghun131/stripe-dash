@@ -1,0 +1,22 @@
+.selected {
+  color: red;
+}
+
+.unselected {
+  color: blue;
+}
+
+.holder {
+  display: flex;
+  flex-direction: row;
+}
+
+.tabs {
+  display: flex;
+  flex-direction: column;
+  margin-left: 50px;
+}
+
+.body {
+  margin-left: 100px;
+}
